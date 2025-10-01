@@ -1,16 +1,14 @@
 # Hi, I’m Jason 👋
 
----
 ### 🛠 Tech I work with (or am learning)
-**Programming & Environment**  
+#### **Programming & Environment**  
 Debian · Docker · Confluence · Git · Java · Jira · PHP · Power Automate · Proxmox VE · R · SharePoint · SQL · Trello · Windows
 
-**Modeling & Documentation**  
+#### **Modeling & Documentation**  
 Antora · ArchiMate · AsciiDoc · BPMN · C4 · Diataxis · Documentation as Code · Markdown · Mind Mapping · Notion · Obsidian · Structurizr · Technical Writing · UML
----
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonhaak&show_icons=true&theme=tokyonight)
 
----
 ### ✨ A few fun facts about me
 - 🦆 Ducks are my spirit animals
 - 😵 I was once hit by a boomerang at age 4 and got a scar above my eye
