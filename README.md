@@ -8,52 +8,53 @@
 <h2 align="center">🚀 Projects & Tech</h2>
 
 <div align="center">
-    <table width="100%" align="left">
-      <tr>
-        <th align="left">💻 Technology</th>
-        <th align="left">🚀 Projects</th>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://workers.cloudflare.com/">
-            <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=white">
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/jasonhaak/cloudflare-redirect-worker">
-            <img src="https://img.shields.io/badge/cloudflare--redirect--worker-000000?logo=github&logoColor=white&labelColor=000000">
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://apps.ankiweb.net/">
-            <img src="https://img.shields.io/badge/Flashcards-0A96E6?logo=bookstack&logoColor=white">
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/jasonhaak/is-uni-muenster-flashcards">
-            <img src="https://img.shields.io/badge/is--uni--muenster--flashcards-000000?logo=github&logoColor=white&labelColor=000000">
-          </a>
-          <a href="https://github.com/jasonhaak/wi-uni-muenster-flashcards">
-            <img src="https://img.shields.io/badge/wi--uni--muenster--flashcards-000000?logo=github&logoColor=white&labelColor=000000">
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://www.php.net/">
-            <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/jasonhaak/runtime-analysis-php">
-            <img src="https://img.shields.io/badge/runtime--analysis--php-000000?logo=github&logoColor=white&labelColor=000000">
-          </a>
-        </td>
-      </tr>
-    </table>
+  <table width="100%">
+    <tr>
+      <th align="left">💻 Technology</th>
+      <th align="left">🚀 Projects</th>
+    </tr>
+    <tr>
+      <td align="left">
+        <a href="https://workers.cloudflare.com/">
+          <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=white">
+        </a>
+      </td>
+      <td align="left">
+        <a href="https://github.com/jasonhaak/cloudflare-redirect-worker">
+          <img src="https://img.shields.io/badge/cloudflare--redirect--worker-000000?logo=github&logoColor=white&labelColor=000000">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <a href="https://apps.ankiweb.net/">
+          <img src="https://img.shields.io/badge/Flashcards-0A96E6?logo=bookstack&logoColor=white">
+        </a>
+      </td>
+      <td align="left">
+        <a href="https://github.com/jasonhaak/is-uni-muenster-flashcards">
+          <img src="https://img.shields.io/badge/is--uni--muenster--flashcards-000000?logo=github&logoColor=white&labelColor=000000">
+        </a>
+        <a href="https://github.com/jasonhaak/wi-uni-muenster-flashcards">
+          <img src="https://img.shields.io/badge/wi--uni--muenster--flashcards-000000?logo=github&logoColor=white&labelColor=000000">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <a href="https://www.php.net/">
+          <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+        </a>
+      </td>
+      <td align="left">
+        <a href="https://github.com/jasonhaak/runtime-analysis-php">
+          <img src="https://img.shields.io/badge/runtime--analysis--php-000000?logo=github&logoColor=white&labelColor=000000">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <h2 align="center">✨ A few fun facts about me</h2>
 
