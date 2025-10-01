@@ -26,15 +26,10 @@
       </td>
     </tr>
     <tr>
-      <td align="left">
-        <a href="https://apps.ankiweb.net/">
-          <img src="https://img.shields.io/badge/Flashcards-0A96E6?logo=bookstack&logoColor=white">
-        </a>
-      </td>
         <td align="left">
           <a href="https://github.com/jasonhaak/is-uni-muenster-flashcards">
             <img src="https://img.shields.io/badge/is--uni--muenster--flashcards-000000?logo=github&logoColor=white&labelColor=000000">
-          </a><a href="https://github.com/jasonhaak/wi-uni-muenster-flashcards">
+          </a>&nbsp;<a href="https://github.com/jasonhaak/wi-uni-muenster-flashcards">
             <img src="https://img.shields.io/badge/wi--uni--muenster--flashcards-000000?logo=github&logoColor=white&labelColor=000000">
           </a>
         </td>
