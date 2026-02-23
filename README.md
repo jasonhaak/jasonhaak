@@ -1,11 +1,6 @@
 # Hi, I’m Jason 👋
 
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=jasonhaak&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonhaak&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css">
-</p>
-
-## 🚀 Projects & Tech
+## Projects & Tech
 
 | 💻 **Technology**                                                                                                                                  | 🚀 **Projects**                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13,7 +8,7 @@
 | [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/) | [![cloudflare-redirect-worker](https://img.shields.io/static/v1?label=&message=cloudflare-redirect-worker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jasonhaak/cloudflare-redirect-worker)                                                                                                                                                                                                                                  |
 | [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)                                                   | [![runtime-analysis-php](https://img.shields.io/static/v1?label=&message=runtime-analysis-php&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/jasonhaak/runtime-analysis-php)                                                                                                                                                                                                                                                    |
 
-## ✨ A few fun facts about me
+## A few fun facts about me
 - 🦆 Ducks are my spirit animals
 - 😵 I was once hit by a boomerang at age 4 and got a scar above my eye  
-- 📑 I somehow developed my own weird dialect of Markdown (which I probably never will show publicly)
+- 📑 I developed my own weird dialect of Markdown (which I probably never will show publicly)
